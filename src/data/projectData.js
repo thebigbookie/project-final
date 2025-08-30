@@ -29,5 +29,18 @@ export const projects = [
     liveSite: "https://thebigbookie.github.io/Joestar-Museum/index.html",
     githubRepo: "https://github.com/thebigbookie/Joestar-Museum",
    },
-    
+    {
+    id: 3,
+    title: {
+      en: "Nothing",
+      es: "Nada",
+    },
+    description: {
+      en: "Welcome to Nothing",
+      es: "Bienvenido a Nada",
+    },
+    image: "",
+    liveSite: "https://thebigbookie.github.io/No/index.html/",
+    githubRepo: "https://github.com/thebigbookie/No",
+  },
 ];
