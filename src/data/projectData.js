@@ -7,7 +7,7 @@ export const projects = [
       es: "EmpowerHer Collective",
     },
     description: {
-      en: "Empowering Girls and Women foundation",
+      en: "Empowering girls and women foundation",
       es: "Fundación en base a niñas y mujeres",
     },
     image: "",
