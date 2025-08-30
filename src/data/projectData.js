@@ -7,8 +7,8 @@ export const projects = [
       es: "EmpowerHer Collective",
     },
     description: {
-      en: "",
-      es: "Fundacion",
+      en: "Empowering Girls and Women foundation",
+      es: "Fundación en base a niñas y mujeres",
     },
     image: "",
     liveSite: "https://thebigbookie.github.io/EmpowerHER.html/index2/",
